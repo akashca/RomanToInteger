@@ -36,8 +36,8 @@ namespace ConvertRomanToInteg
         {
             Program obj = new Program();
             Console.WriteLine("Enter the Roman number");
-            string count = Console.ReadLine();
-            Console.WriteLine(obj.RomanToInt2(count)); 
+            string input = Console.ReadLine();
+            Console.WriteLine(obj.RomanToInt2(input)); 
         }
     }
 }
