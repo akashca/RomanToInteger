@@ -1,4 +1,6 @@
 # RomanToInteger
+-By Akash Dubey
+-Git link https://github.com/akashca/RomanToInteger.git
 I have added all the symbol and value(for all 7 roman symbols)
 initializing result
 I used a for loop to check the next character in the Roman number string to see if the number is associated with the numeral should be subtracted or added to the total.
