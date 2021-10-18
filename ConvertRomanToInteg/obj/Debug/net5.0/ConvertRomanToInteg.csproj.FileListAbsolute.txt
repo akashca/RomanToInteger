@@ -1,0 +1,16 @@
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ConvertRomanToInteg.exe
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ConvertRomanToInteg.deps.json
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ConvertRomanToInteg.runtimeconfig.json
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ConvertRomanToInteg.runtimeconfig.dev.json
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ConvertRomanToInteg.dll
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ref\ConvertRomanToInteg.dll
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\bin\Debug\net5.0\ConvertRomanToInteg.pdb
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.csproj.AssemblyReference.cache
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.AssemblyInfoInputs.cache
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.AssemblyInfo.cs
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.csproj.CoreCompileInputs.cache
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.dll
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ref\ConvertRomanToInteg.dll
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.pdb
+C:\Users\Cloud Analogy\source\repos\ConvertRomanToInteg\ConvertRomanToInteg\obj\Debug\net5.0\ConvertRomanToInteg.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertRomanToInteg", "ConvertRomanToInteg\ConvertRomanToInteg.csproj", "{6E0026F4-4941-487C-99CC-CDD9925FCD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E0026F4-4941-487C-99CC-CDD9925FCD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0026F4-4941-487C-99CC-CDD9925FCD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0026F4-4941-487C-99CC-CDD9925FCD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0026F4-4941-487C-99CC-CDD9925FCD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {682E1C1A-F0E7-4EF5-BE37-2F1FE80775EF}
+	EndGlobalSection
+EndGlobal
